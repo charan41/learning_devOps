@@ -1,6 +1,6 @@
-<h1> Hello, Welcome to Valaxy Technologies !! </h1>
-<h2> AWS & DevOps training </h2>
+<h1> Hello, World</h1>
+<h2> Just learning Devops culture from a video tutorial </h2>
 <h2> Happy learning </h2>
-<h2> Contact us on +91-9642-858583 </h2>
-<h2> Please subscribe to Valaxy Technologes Channel </h2>
-<h2> thanks for following us </h2>
+<h2> bessenkphilip@gmail.com</h2>
+<h2> THe video tutorial is by Valaxy Technologies in youtube</h2>
+Testing without heading tag, I'm not that into java
